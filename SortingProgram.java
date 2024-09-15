@@ -1,33 +1,18 @@
 /**
-* U3A2_ShaanMehta
-* 
-* This program is a sorting routine that is capable
-* of sorting a list of randomly generated numbers.
-* The user is given an option as to how many numbers
-* are to be sorted. The random numbers are all in the 
-* range of -1000 to 1000. These numbers are then sorted 
-* in ascending or descending order, depending on user
-* selection. Error checking is implemented to ensure
-* valid input from the user. The user is given a list 
-* of sorting options like; selection sort, bubble sort, 
-* insertion sort, and quick sort. 
-* There are also some other features:
-*
-* Extra features are implemented in this program. 
-* The user is given an option to sort their desired
-* list of numbers using all four sorting algorithms.
-* Additionally, regardless of which algorithm(s) are
-* used, the program will output the efficiency of the
-* algorithm. This includes the time taken, loop count, 
-* comparison count, and shift count. These variables
-* are displayed neatly in a concise format. Lastly, 
-* there is an option to exit the program at any time!
-* 
-* Bugs: none known
-* 
-* @author  Shaan Mehta
-* @version 1.0
-* @date    2024-07-16
+This program is a sorting routine that is capable of sorting a list 
+of randomly generated numbers.The user is given an option as to how 
+many numbers are to be sorted. The random numbers are all in the range 
+of -1000 to 1000. These numbers are then sorted in ascending or descending 
+order, depending on user selection. Error checking is implemented to ensure
+valid input from the user. The user is given a list of sorting options 
+like; selection sort, bubble sort, insertion sort, and quick sort. 
+
+Also, the user is given an option to sort their desired list of numbers 
+using all four sorting algorithms. Regardless of which algorithm(s) are
+used, the program will output the efficiency of the algorithm. This 
+includes the time taken, loop count, comparison count, and shift count. 
+Lastly, there is an option to exit the program at any time!
+
 */
 
 
