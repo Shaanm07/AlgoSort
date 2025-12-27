@@ -1,13 +1,11 @@
 /**
 This program is a sorting routine that is capable of sorting a list 
-of randomly generated numbers.The user is given an option as to how 
-many numbers are to be sorted. The random numbers are all in the range 
-of -1000 to 1000. These numbers are then sorted in ascending or descending 
+of randomly generated numbers. The random numbers are in the range of 
+-1000 to 1000. These numbers are sorted in ascending or descending 
 order, depending on user selection. Error checking is implemented to ensure
-valid input from the user. The user is given a list of sorting options 
-like; selection sort, bubble sort, insertion sort, and quick sort. 
+valid input from the user. The user is given a list of sorting options.
 
-Also, the user is given an option to sort their desired list of numbers 
+The user is given an option to sort their desired list of numbers 
 using all four sorting algorithms. Regardless of which algorithm(s) are
 used, the program will output the efficiency of the algorithm. This 
 includes the time taken, loop count, comparison count, and shift count. 
